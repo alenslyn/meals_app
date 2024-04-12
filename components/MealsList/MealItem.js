@@ -6,7 +6,7 @@ import {
   StyleSheet,
   Platform,
 } from "react-native";
-import MealDetails from "./MealDetails";
+import MealDetails from "../MealDetails";
 import { useNavigation } from "@react-navigation/native";
 
 function MealItem({
